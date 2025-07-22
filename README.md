@@ -12,5 +12,4 @@ This is a minimalist simulation framework for testing concepts from the Fractal 
 ## Usage
 ```bash
 python main.py --nodes 100 --steps 10 --output data/
-# frcc-toy-sim
-A toy simulation for the Fractal Recursive Computational Cosmology model
+
